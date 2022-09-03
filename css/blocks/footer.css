@@ -1,0 +1,35 @@
+
+.footer-container {
+    margin-top: auto;
+}
+
+.footer-container__section {
+    height: 152px;
+}
+
+.footer-container__content {
+    border-top: 1px solid #ffffff09;
+}
+
+.footer {
+    
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer__col {
+    display: flex;
+    align-items: center;
+}
+
+.footer__col--align--right{
+justify-content: flex-end;
+}
+
+.menu{
+    top: 28px;
+    left: 287px;
+    
+}

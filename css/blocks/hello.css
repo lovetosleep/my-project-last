@@ -1,0 +1,18 @@
+
+.hello {
+    margin-bottom: 191px;
+}
+
+.hello__title {
+    width: 70%;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.1;
+    margin-bottom: 19px;
+}
+
+
+.hello__subtitle {
+    font-size: 21px;
+    margin-bottom: 74px;
+}

@@ -1,0 +1,33 @@
+
+.contacts, .contacts__footer {
+    font-style: normal;
+    text-align: right;
+}
+
+.contacts__text {
+    color: #9A9A9A;
+    font-size: 11px;
+}
+
+.contacts__phone {
+    text-decoration: none;
+    font-size: 26px;
+    margin-bottom: 4px;
+}
+
+.contacts__dropdown {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contacts__dropdown:hover .dropdown__menu{
+    left: 34px;
+    opacity: 0.8;
+}
+
+.contacts__info {
+    font-size: 13px;
+    text-decoration: underline;
+    line-height: 0px;
+}

@@ -1,0 +1,20 @@
+
+.top-line {
+    min-height: 420px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 23px;
+    background: #17191c url("../../img/header/fon1.png") center top 54% no-repeat;
+
+}
+
+.top-line__container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.top-line--reviews {
+    min-height: 442px;
+}

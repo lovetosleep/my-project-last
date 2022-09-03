@@ -1,0 +1,33 @@
+
+.paginator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ 
+ .paginator__pages {
+     margin-right: 35px;
+ }
+ .paginator__list {
+     display: flex;
+     align-items: center;
+ }
+ 
+ .paginator__item {
+ text-align: center;
+ }
+ 
+ .paginator__item--active .paginator__link {
+     background: #8F00FF;
+ }
+ 
+ .paginator__link {
+     display: block;
+     width: 32px;
+     height: 32px;
+     border-radius:50%;
+     text-decoration: none;
+     font-weight: bold;
+     line-height: 32px;
+ }

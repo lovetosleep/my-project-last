@@ -1,0 +1,30 @@
+
+.menu__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__item {
+    margin-right: 63px;
+}
+
+.menu__item:last-child {
+    margin-right: 0;
+}
+
+.menu__link {
+    font-size: 16px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.menu__link--active {
+    font-size: 16px;
+    text-decoration: none;
+    transition: color .3s;
+    color: #8F00FF;
+}
+
+.menu__link:hover {
+    color: #8F00FF;
+}

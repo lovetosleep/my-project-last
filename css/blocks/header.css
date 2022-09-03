@@ -1,0 +1,22 @@
+
+.header {
+    padding-top: 45px;
+    margin-bottom: 135px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__col {
+    display: flex;
+    align-items: center;
+}
+
+.header__col--align--right {
+    justify-content: flex-end;
+}
+
+.header--services {
+    margin-bottom: 0;
+    padding-top: 40px;
+}
